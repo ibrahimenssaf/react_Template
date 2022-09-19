@@ -1,0 +1,55 @@
+.nav{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    border-bottom: 1px solid rgb(9, 10, 24);
+    padding: 5px 0;
+}
+.nav .logo {
+    font-size: 30px;
+    text-decoration: none;
+    color:  rgb(9, 10, 24);
+}
+.nav .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav .list-style {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    text-transform: uppercase;
+}
+
+.nav .list-style a {
+    color: rgb(9, 10, 24);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
