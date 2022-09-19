@@ -3,6 +3,7 @@
     font-weight: 700;
     border-bottom: 1px solid rgb(9, 10, 24);
     padding: 5px 0;
+    background-color: red;
 }
 .nav .logo {
     font-size: 30px;
